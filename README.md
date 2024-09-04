@@ -1,5 +1,24 @@
-# 💫 About Me:
-🔭 I’m currently working on personal projects<br>👯 I’m looking to collaborate on Front-End projects<br>🤝 I’m looking for help with React<br>🌱 I’m currently learning React, TS and TailwindCSS
+<h1 align="center">Hi 👋, I'm Ali Hassan Atif</h1>
+<h3 align="center">A passionate frontend developer from Pakistan</h3>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=thealihassanatif&label=Profile%20views&color=0e75b6&style=flat" alt="thealihassanatif" /> </p>
+
+
+- 🔭 I’m currently working on [Personal Portfolio](ali.sitebudy.com)
+
+- 🌱 I’m currently learning **React, TS, TailwindCSS**
+
+- 👨‍💻 All of my projects are available at [ali.sitebudy.com](ali.sitebudy.com)
+
+- 📝 I regularly write articles on [ali.sitebudy.com/blog](ali.sitebudy.com/blog)
+
+- 💬 Ask me about **React**
+
+- 📫 How to reach me **thealihassanatif@gmail.com**
+
+- 📄 Know about my experiences [ali.sitebudy.com/resume](ali.sitebudy.com/resume)
+
+- ⚡ Fun fact **I think I am funny (Others don't agree)**
 
 
 ## 🌐 Socials:
