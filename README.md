@@ -8,15 +8,15 @@
 
 - 🌱 I’m currently learning **React, TS, TailwindCSS**
 
-- 👨‍💻 All of my projects are available at [ali.sitebudy.com](ali.sitebudy.com)
+- 👨‍💻 All of my projects are available [here](ali.sitebudy.com)
 
-- 📝 I regularly write articles on [ali.sitebudy.com/blog](ali.sitebudy.com/blog)
+- 📝 I regularly write articles on [My Blog](ali.sitebudy.com/blog)
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **thealihassanatif@gmail.com**
+- 📫 How to reach me **thealihassanatif@gmail.com** [Email](mailto:thealihassanatif@gmail.com)
 
-- 📄 Know about my experiences [ali.sitebudy.com/resume](ali.sitebudy.com/resume)
+- 📄 Know about my experiences [here](ali.sitebudy.com/resume)
 
 - ⚡ Fun fact **I think I am funny (Others don't agree)**
 
