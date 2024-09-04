@@ -10,11 +10,11 @@
 
 - 👨‍💻 All of my projects are available [here](ali.sitebudy.com)
 
-- 📝 I regularly write articles on [My Blog](ali.sitebudy.com/blog)
+- 📝 I regularly write articles on [my Blog](ali.sitebudy.com/blog)
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **thealihassanatif@gmail.com** [Email](mailto:thealihassanatif@gmail.com)
+- 📫 How to reach me via Email [here](mailto:thealihassanatif@gmail.com)
 
 - 📄 Know about my experiences [here](ali.sitebudy.com/resume)
 
@@ -37,11 +37,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=thealihassanatif&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/thealihassanatif) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/thealihassanatif) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
