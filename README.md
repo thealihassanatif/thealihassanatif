@@ -36,6 +36,7 @@
 
 # 🏆 GitHub Trophies:
 <br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thealihassanatif&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) <br/>
 ![](https://github-profile-trophy.vercel.app/?username=thealihassanatif&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <br><br>
@@ -48,7 +49,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=thealihassanatif&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thealihassanatif&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thealihassanatif&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![](https://github-profile-trophy.vercel.app/?username=thealihassanatif&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <br><br>
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/thealihassanatif"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="thealihassanatif" /></a></p><br><br>
