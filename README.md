@@ -36,7 +36,9 @@
 ###
 
 <p align="center">
+    <a href="#">
     <img src="https://skillicons.dev/icons?i=react,tailwind,ts,linux,arch,bash,bootstrap,git,cpp,css,dotnet,figma,gcp,github,html,js,mongodb,nodejs,npm,py,vscode,wordpress,vim,oracle&perline=8" />
+    </a>
 </p>
 
 # 📊 GitHub Stats:
