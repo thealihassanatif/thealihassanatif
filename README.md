@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me via Email [here](mailto:thealihassanatif@gmail.com)
+- 📫 Reach me via Email [here](mailto:thealihassanatif@gmail.com)
 
 - 📄 Know about my experiences [here](ali.sitebudy.com/resume)
 
