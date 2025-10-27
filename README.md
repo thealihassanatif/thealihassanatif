@@ -4,19 +4,13 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=thealihassanatif&label=Profile%20views&color=0e75b6&style=flat" alt="thealihassanatif"/> </p>
 
 
-- 🔭 I’m currently working on [Personal Portfolio](ali.sitebudy.com)
+- 🔭 I’m currently working on FYP
 
 - 🌱 I’m currently learning **React, TS, TailwindCSS**
-
-- 👨‍💻 All of my projects are available [here](ali.sitebudy.com)
-
-- 📝 I regularly write articles on [my Blog](ali.sitebudy.com/blog)
 
 - 💬 Ask me about **React**
 
 - 📫 Reach me via Email [here](mailto:thealihassanatif@gmail.com)
-
-- 📄 Know about my experiences [here](ali.sitebudy.com/resume)
 
 - ⚡ Fun fact **I think I am funny (Others don't agree)**
 
